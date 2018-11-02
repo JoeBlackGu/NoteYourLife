@@ -1,0 +1,6 @@
+framework module Notepad {
+  umbrella header "Notepad.h"
+
+  export *
+  module * { export * }
+}
